@@ -1,0 +1,1 @@
+sudo mysqlshow -u root -p funktioniert, ohne sudo nicht
