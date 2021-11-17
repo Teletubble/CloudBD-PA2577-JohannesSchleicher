@@ -1,4 +1,4 @@
-node appserver {
+node /^appserver/ {
   exec { 'update':
     path => ['/usr/bin', '/usr/sbin', '/bin'],
     command => "apt-get update",
@@ -23,11 +23,11 @@ node appserver {
   }
 }
 
-node dbserver {
+node /^dbserver/ {
   include mysql
 }
 
-node web {
+node /^web/ {
   package { 'nginx':
     ensure => present,
   }
@@ -39,7 +39,7 @@ node web {
 }
 
 
-node /tst[0-2]/ {
+node /^tst[0-2]/ {
   exec { 'update':
     path => ['/usr/bin', '/usr/sbin', '/bin'],
     command => "apt-get update",
