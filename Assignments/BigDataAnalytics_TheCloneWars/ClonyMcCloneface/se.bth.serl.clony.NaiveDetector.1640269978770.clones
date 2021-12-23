@@ -1,0 +1,195 @@
+Root folder: /home/vagrant/QualitasCorpus/QualitasCorpus-20130901r/Systems/ant
+Total files/lines scanned: 1196/128219
+Clones of size 20 or larger found: 47
+Largest clone: 213
+
+###Clone size: 213###
+File: FTP.java | 185-397
+File: FTPTaskMirrorImpl.java | 86-298
+
+###Clone size: 167###
+File: FTP.java | 505-671
+File: FTPTaskMirrorImpl.java | 406-572
+
+###Clone size: 158###
+File: FTP.java | 753-910
+File: FTPTaskMirrorImpl.java | 655-812
+
+###Clone size: 134###
+File: FTP.java | 2554-2687
+File: FTPTask.java | 831-963
+
+###Clone size: 113###
+File: CCMkattr.java | 180-292
+File: CCMklabel.java | 169-282
+
+###Clone size: 94###
+File: CBZip2OutputStream.java | 229-322
+File: CBZip2OutputStream.java | 386-477
+
+###Clone size: 87###
+File: ExecTask.java | 176-262
+File: Java.java | 480-568
+
+###Clone size: 78###
+File: CCCheckin.java | 159-236
+File: CCMkelem.java | 182-257
+
+###Clone size: 77###
+File: FTP.java | 974-1050
+File: FTPTaskMirrorImpl.java | 880-956
+
+###Clone size: 67###
+File: AbstractFileSet.java | 644-710
+File: AbstractSelectorContainer.java | 158-225
+
+###Clone size: 64###
+File: CCMkattr.java | 310-373
+File: CCMklabel.java | 300-363
+
+###Clone size: 64###
+File: FTP.java | 1511-1574
+File: FTPTask.java | 546-609
+
+###Clone size: 60###
+File: HeadFilter.java | 114-173
+File: TailFilter.java | 114-173
+
+###Clone size: 59###
+File: AbstractFileSet.java | 652-710
+File: AbstractSelectorContainer.java | 167-323
+File: BaseSelectorContainer.java | 173-329
+
+###Clone size: 53###
+File: CCMkattr.java | 124-176
+File: CCMklabel.java | 121-169
+
+###Clone size: 53###
+File: FTP.java | 450-502
+File: FTPTaskMirrorImpl.java | 351-403
+
+###Clone size: 52###
+File: CCLock.java | 301-352
+File: CCUnlock.java | 195-246
+
+###Clone size: 52###
+File: FTP.java | 1878-1929
+File: FTPTaskMirrorImpl.java | 1267-1318
+
+###Clone size: 48###
+File: FTP.java | 1654-1701
+File: FTPTask.java | 715-762
+
+###Clone size: 46###
+File: MappingSelector.java | 90-135
+File: PresentSelector.java | 128-173
+
+###Clone size: 45###
+File: CBZip2InputStream.java | 603-647
+File: CBZip2InputStream.java | 683-727
+
+###Clone size: 44###
+File: FilterSetTest.java | 178-221
+File: TranslateTest.java | 53-95
+
+###Clone size: 43###
+File: FTP.java | 1053-1095
+File: FTPTaskMirrorImpl.java | 959-1001
+
+###Clone size: 42###
+File: FTP.java | 1932-1973
+File: FTPTaskMirrorImpl.java | 1321-1362
+
+###Clone size: 40###
+File: FTP.java | 1097-1136
+File: FTPTaskMirrorImpl.java | 1003-1042
+
+###Clone size: 39###
+File: Execute.java | 1043-1081
+File: Execute.java | 1102-1140
+
+###Clone size: 38###
+File: PrefixLines.java | 65-102
+File: SuffixLines.java | 66-103
+
+###Clone size: 38###
+File: WeblogicDeploymentTool.java | 893-930
+File: WebsphereDeploymentTool.java | 859-896
+
+###Clone size: 37###
+File: AntTest.java | 318-354
+File: SubAntTest.java | 105-141
+
+###Clone size: 37###
+File: TokenFilter.java | 441-477
+File: TokenFilter.java | 509-545
+
+###Clone size: 37###
+File: XMLCatalog.java | 851-887
+File: XMLCatalog.java | 1015-1053
+
+###Clone size: 36###
+File: JakartaOroRegexp.java | 35-70
+File: Jdk14RegexpRegexp.java | 48-83
+
+###Clone size: 35###
+File: Jdk14RegexpMatcherTest.java | 36-70
+File: Jdk14RegexpRegexpTest.java | 36-71
+
+###Clone size: 34###
+File: CCCheckin.java | 111-144
+File: CCMkelem.java | 123-156
+
+###Clone size: 33###
+File: FTP.java | 407-439
+File: FTPTaskMirrorImpl.java | 308-340
+
+###Clone size: 33###
+File: RExecTask.java | 223-255
+File: TelnetTask.java | 362-394
+
+###Clone size: 32###
+File: FixCrLfTest.java | 188-219
+File: ReplaceTest.java | 98-126
+
+###Clone size: 29###
+File: CCCheckin.java | 111-139
+File: CCMkdir.java | 93-120
+File: CCMkelem.java | 123-151
+
+###Clone size: 28###
+File: DefaultExcludesTest.java | 42-69
+File: DefaultExcludesTest.java | 77-104
+
+###Clone size: 28###
+File: RExecTask.java | 192-219
+File: TelnetTask.java | 329-356
+
+###Clone size: 28###
+File: ResourceUtils.java | 413-440
+File: ResourceUtils.java | 464-491
+
+###Clone size: 27###
+File: FTP.java | 1979-2005
+File: FTPTaskMirrorImpl.java | 1368-1394
+
+###Clone size: 26###
+File: CBZip2OutputStream.java | 332-357
+File: CBZip2OutputStream.java | 485-508
+
+###Clone size: 26###
+File: WeblogicDeploymentTool.java | 849-874
+File: WebsphereDeploymentTool.java | 815-840
+
+###Clone size: 24###
+File: PathTest.java | 201-224
+File: PathTest.java | 247-270
+
+###Clone size: 21###
+File: DefaultExcludesTest.java | 84-104
+File: DefaultExcludesTest.java | 120-140
+
+###Clone size: 20###
+File: DefaultExcludesTest.java | 51-70
+File: DefaultExcludesTest.java | 122-141
+
